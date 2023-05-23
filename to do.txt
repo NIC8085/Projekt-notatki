@@ -1,0 +1,5 @@
+
+1. dodać autora przy edytowaniu i dodawania
+2. dodać wyświetlanie daty ostatniej modyfikacji w details.html
+3. django
+4. (opcjonalnie na koniec) dodać edycje notatek taką jak wielkość czcionki lub coś
